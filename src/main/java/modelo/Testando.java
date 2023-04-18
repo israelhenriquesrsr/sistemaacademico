@@ -6,6 +6,7 @@ import javafx.stage.Stage;
 public class Testando extends Application {
 
 	public static void main(String[] args) {
+		
 		Aluno aluno = new Aluno();
 			aluno.setNome("Fagner");
 			System.out.println(aluno);
